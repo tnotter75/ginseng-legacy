@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "id": "sam",
+      "name": "Sam",
+      "walk": "players/sam/walk.png",
+      "kneel": "players/sam/kneel.png",
+      "portrait": "players/sam/portrait.jpg"
+    },
+    {
+      "id": "junie",
+      "name": "Junie",
+      "walk": "players/junie/walk.png",
+      "kneel": "players/junie/kneel.png",
+      "portrait": "players/junie/portrait.jpg"
+    },
+    {
+      "id": "walt",
+      "name": "Walt",
+      "walk": "players/walt/walk.png",
+      "kneel": "players/walt/kneel.png",
+      "portrait": "players/walt/portrait.jpg"
+    },
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "walk": "players/isaac/walk.png",
+      "kneel": "players/isaac/kneel.png",
+      "portrait": "players/isaac/portrait.jpg"
+    }
+  ]
+}

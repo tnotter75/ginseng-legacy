@@ -1,0 +1,57 @@
+{
+  "season": "fall",
+  "background": "bg_cove.jpg",
+  "shadow": "../shadow.png",
+  "canvas": 512,
+  "sprites": {
+    "seedling": {
+      "file": "seedling.png",
+      "world_scale": 0.3,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.45703125
+    },
+    "two-years": {
+      "file": "two-years.png",
+      "world_scale": 0.48,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.513671875
+    },
+    "green-berries-2prong": {
+      "file": "green-berries-2prong.png",
+      "world_scale": 0.58,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.64453125
+    },
+    "green-berries-3prong": {
+      "file": "green-berries-3prong.png",
+      "world_scale": 0.82,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.640625
+    },
+    "fall-berries-hero": {
+      "file": "fall-berries-hero.png",
+      "world_scale": 1.0,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.6953125
+    },
+    "latefall-berries": {
+      "file": "latefall-berries.png",
+      "world_scale": 0.9,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.712890625
+    },
+    "latefall-senescent": {
+      "file": "latefall-senescent.png",
+      "world_scale": 0.92,
+      "anchor_x_frac": 0.5,
+      "anchor_y_frac": 0.9697265625,
+      "plant_h_frac": 0.708984375
+    }
+  }
+}
